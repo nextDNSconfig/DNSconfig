@@ -19,7 +19,7 @@ Step 4: Choose "Import a config"
 
 
 
-Step 5: Choose the downloaded file from this page 
+Step 5: Choose the <a href="https://github.com/nextDNSconfig/DNSconfig/releases/tag/Release" target="_blank">downloaded</a> file from this page 
 
 
 
@@ -28,3 +28,5 @@ Step 6: Copy the DNS servers on the device you want to use.
 
 
 Now you can use an easy NextDNS setup that has little to no errors. 
+
+
