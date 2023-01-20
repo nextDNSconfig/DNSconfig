@@ -1,0 +1,162 @@
+{
+  "denylist": [],
+  "parentalcontrol": {
+    "safeSearch": true,
+    "youtubeRestrictedMode": false,
+    "blockBypass": false,
+    "services": [],
+    "categories": [
+      {
+        "id": "gambling",
+        "recreation": false,
+        "active": true
+      },
+      {
+        "id": "dating",
+        "recreation": false,
+        "active": true
+      },
+      {
+        "id": "piracy",
+        "recreation": false,
+        "active": true
+      }
+    ],
+    "recreation": {
+      "times": {},
+      "timezone": null
+    }
+  },
+  "rewrites": [],
+  "security": {
+    "threatIntelligenceFeeds": true,
+    "aiThreatDetection": true,
+    "googleSafeBrowsing": true,
+    "cryptojacking": true,
+    "dnsRebinding": true,
+    "idnHomographs": true,
+    "typosquatting": true,
+    "dga": true,
+    "nrd": true,
+    "ddns": true,
+    "parking": true,
+    "csam": true,
+    "tlds": []
+  },
+  "allowlist": [],
+  "privacy": {
+    "disguisedTrackers": true,
+    "allowAffiliate": true,
+    "blocklists": [
+      {
+        "id": "nextdns-recommended"
+      },
+      {
+        "id": "adguard-dns-filter"
+      },
+      {
+        "id": "easylist"
+      },
+      {
+        "id": "steven-black"
+      },
+      {
+        "id": "adguard-mobile-ads-filter"
+      },
+      {
+        "id": "oisd"
+      },
+      {
+        "id": "notracking"
+      },
+      {
+        "id": "easyprivacy"
+      },
+      {
+        "id": "adguard-tracking-protection-filter"
+      },
+      {
+        "id": "adguard-base-filter"
+      },
+      {
+        "id": "peter-lowe"
+      },
+      {
+        "id": "1hosts-lite"
+      },
+      {
+        "id": "anti-ad"
+      },
+      {
+        "id": "1hosts-mini"
+      },
+      {
+        "id": "easylist-dutch"
+      },
+      {
+        "id": "adguard-social-media-filter"
+      },
+      {
+        "id": "anudeep-blacklist"
+      },
+      {
+        "id": "lightswitch05-ads-tracking"
+      },
+      {
+        "id": "hagezi-multi-light"
+      },
+      {
+        "id": "hagezi-multi-pro"
+      },
+      {
+        "id": "hagezi-multi-normal"
+      }
+    ],
+    "natives": [
+      {
+        "id": "xiaomi"
+      },
+      {
+        "id": "huawei"
+      },
+      {
+        "id": "samsung"
+      },
+      {
+        "id": "alexa"
+      },
+      {
+        "id": "windows"
+      },
+      {
+        "id": "apple"
+      },
+      {
+        "id": "roku"
+      },
+      {
+        "id": "sonos"
+      }
+    ]
+  },
+  "settings": {
+    "logs": {
+      "enabled": true,
+      "drop": {
+        "ip": false,
+        "domain": false
+      },
+      "retention": 63072000,
+      "location": "ch"
+    },
+    "blockPage": {
+      "enabled": false
+    },
+    "performance": {
+      "ecs": true,
+      "cacheBoost": true,
+      "cnameFlattening": true
+    },
+    "web3": false
+  }
+}
