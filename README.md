@@ -9,7 +9,7 @@ Step 1: Download <a href="https://github.com/hjk789/NXEnhanced" target="_blank">
 
 
 
-Step 2: Create a <a href="https://my.nextdns.io/login" target="_blank">NextDNS</a> account or use your existing account. 
+Step 2: Create a <a href="https://my.nextdns.io/login" target="_blank">NextDNS</a> account or use your existing account
 
 
 
@@ -25,11 +25,11 @@ Step 5: Choose the <a href="https://github.com/nextDNSconfig/DNSconfig/releases/
 
 
 
-Step 6: Copy the DNS servers on the device you want to use. 
+Step 6: Copy the DNS servers on the device you want to use
 
 
 
-Now you can use an easy NextDNS setup that has little to no errors. 
+Now you can use an easy NextDNS setup that has little to no errors
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
