@@ -29,6 +29,7 @@ Step 6: Copy the DNS servers on the device you want to use.
 
 Now you can use an easy NextDNS setup that has little to no errors. 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 By Koen van der Linde
 
