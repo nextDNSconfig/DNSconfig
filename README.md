@@ -2,6 +2,8 @@
 
 Welcome to DNSconfig, here you can create your entire NextDNS account in a few steps in 5 minutes
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Step 1: Download <a href="https://github.com/hjk789/NXEnhanced" target="_blank">NX Enhanced</a>
 
 
